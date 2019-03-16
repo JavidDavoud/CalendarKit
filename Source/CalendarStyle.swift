@@ -106,7 +106,7 @@ public class TimelineStyle: NSCopying {
   public var eventsWillOverlap: Bool = false
   public var splitMinuteInterval: Int = 15
   public var verticalDiff: CGFloat = 130
-  public var verticalInset: CGFloat = 35
+  public var verticalInset: CGFloat = 30
   public var leftInset: CGFloat = 54
   public var eventGap: CGFloat = 0
   public init() {}
